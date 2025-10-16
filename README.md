@@ -29,7 +29,7 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 <div align="center">
   <!-- Row 1 -->
-    <img src="iPhone 16 Pro Max - 5.png" width="260" style="margin: 10px;" title="Analytics & Reports"/>
+  <img src="iPhone 16 Pro Max - 4.png" width="260" style="margin: 10px;" title="Expense Management"/>
   <img src="iPhone 16 Pro Max - 1.png" width="260" style="margin: 10px;" title="Login Page"/>
   <img src="iPhone 16 Pro Max - 2.png" width="260" style="margin: 10px;" title="Dashboard Overview"/>
  
@@ -38,7 +38,7 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 <div align="center">
   <!-- Row 2 -->
    <img src="iPhone 16 Pro Max - 3.png" width="260" style="margin: 10px;" title="Wallet & Transactions"/>
-  <img src="iPhone 16 Pro Max - 4.png" width="260" style="margin: 10px;" title="Expense Management"/>
+      <img src="iPhone 16 Pro Max - 5.png" width="260" style="margin: 10px;" title="Analytics & Reports"/>
   <img src="20250924_092127.jpg" width="260" style="margin: 10px;" title="Initial Sketch 1"/>
 </div>
 
