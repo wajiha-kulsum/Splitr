@@ -4,17 +4,16 @@ A modern and intuitive financial management app interface built to simplify expe
 The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth data visualization.
 
 
----
+
 
 ## 🎨 Tools & Design Stack
 - **Figma** — UI Design & Prototype  
 
----
+
 
 ## 🌐 Prototype Link
 [Figma Prototype](https://www.figma.com/file/your-prototype-link-here)
 
----
 
 ## 📱 App Screens – Smart Expense Splitter
 
@@ -30,7 +29,6 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
   <!-- Row 2 -->
    <img src="iPhone 16 Pro Max - 3.png" width="260" style="margin: 10px;" title="Wallet & Transactions"/>
       <img src="iPhone 16 Pro Max - 5.png" width="260" style="margin: 10px;" title="Analytics & Reports"/>
-  <img src="20250924_092127.jpg" width="260" style="margin: 10px;" title="Initial Sketch 1"/>
 </div>
 
 
