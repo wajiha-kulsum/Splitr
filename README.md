@@ -12,7 +12,7 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 
 ##  Prototype Link
-[Figma Prototype](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Untitled?node-id=57-128&t=ydXqSB3kvIcC92Tw-0)
+[Figma Prototype](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Splitr?t=qwcfbNWEj4aZWMBx-0)
 
 
 ## 📱 App Screens – Smart Expense Splitter
