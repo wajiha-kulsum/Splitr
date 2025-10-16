@@ -18,6 +18,6 @@ This design focuses on making expense tracking simple, fair, and collaborative t
 - User Profile
 
 ## 🌐 Prototype
-[Figma Prototype Link](https://www.figma.com/file/xxxxxxx)
+[Figma Prototype Link](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Untitled?node-id=0-1&p=f&t=ydXqSB3kvIcC92Tw-0)
 
 ## 📂 File Structure
