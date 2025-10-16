@@ -1,2 +1,23 @@
-# Splitr-Split-smarter-Pay-faster
-Splitr is a smart expense-splitting app that helps groups manage shared costs effortlessly. From trips and dinners to monthly rents, Splitr makes tracking, splitting, and settling bills simple and transparent. With features like equal, percentage, or custom splits.
+# 💸 Smart Expense Splitter - UI/UX Design
+A smart and intuitive interface to manage and split shared expenses among groups seamlessly.
+
+## 🖌️ Overview
+This design focuses on making expense tracking simple, fair, and collaborative through clean UI and minimal interactions.
+
+## 🎨 Tools Used
+- Figma
+- FigJam (for wireframes & flow)
+- Google Fonts
+- Material Design Components
+
+## 🧩 Key Screens
+- Login & Signup
+- Dashboard Overview
+- Add Expense
+- Split & Settle Up
+- User Profile
+
+## 🌐 Prototype
+[Figma Prototype Link](https://www.figma.com/file/xxxxxxx)
+
+## 📂 File Structure
