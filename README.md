@@ -23,16 +23,30 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 ---
 
-## 📱 UI Screens
-## 📱 App Screens (Horizontal Showcase)
+## 📱 App Screens – Smart Expense Splitter
 
 <div align="center">
-  <img src="iPhone 16 Pro Max - 1.png" width="200" style="margin-right:10px;"/>
-  <img src="iPhone 16 Pro Max - 2.png" width="200" style="margin-right:10px;"/>
-  <img src="iPhone 16 Pro Max - 3.png" width="200" style="margin-right:10px;"/>
-  <img src="iPhone 16 Pro Max - 4.png" width="200" style="margin-right:10px;"/>
-  <img src="iPhone 16 Pro Max - 5.png" width="200"/>
+  <img src="iPhone 16 Pro Max - 1.png" width="260" style="margin: 10px;"/>
+  <img src="iPhone 16 Pro Max - 2.png" width="260" style="margin: 10px;"/>
+  <img src="iPhone 16 Pro Max - 3.png" width="260" style="margin: 10px;"/>
 </div>
+
+<div align="center">
+  <img src="iPhone 16 Pro Max - 4.png" width="260" style="margin: 10px;"/>
+  <img src="iPhone 16 Pro Max - 5.png" width="260" style="margin: 10px;"/>
+  <img src="20250924_092127.jpg" width="260" style="margin: 10px;"/>
+</div>
+
+<div align="center">
+  <img src="20250924_092133.jpg" width="260" style="margin: 10px;"/>
+  <img src="20250924_092514.jpg" width="260" style="margin: 10px;"/>
+  <img src="20250924_092517.jpg" width="260" style="margin: 10px;"/>
+</div>
+
+<div align="center">
+  <img src="20250924_092707.jpg" width="260" style="margin: 10px;"/>
+</div>
+
 
 
 ---
