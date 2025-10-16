@@ -1,4 +1,4 @@
-# 💸 Smart Expense Splitter – UI/UX Design
+# Smart Expense Splitter – UI/UX Design
 
 A modern and intuitive financial management app interface built to simplify expense tracking, budgeting, and group bill-splitting.  
 The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth data visualization.
@@ -6,13 +6,13 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 
 
-## 🎨 Tools & Design Stack
+## Tools
 - **Figma** — UI Design & Prototype  
 
 
 
-## 🌐 Prototype Link
-[Figma Prototype](https://www.figma.com/file/your-prototype-link-here)
+##  Prototype Link
+[Figma Prototype](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Untitled?node-id=57-128&t=ydXqSB3kvIcC92Tw-0)
 
 
 ## 📱 App Screens – Smart Expense Splitter
@@ -34,7 +34,7 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **Smart Expense Splitter** empowers users to:
 - Track income, savings, and expenses visually  
@@ -44,7 +44,7 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 ---
 
 
-## 👩‍🎨 Designer
+## Designer
 **Wajiha Kulsum**  
 
 
