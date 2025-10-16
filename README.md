@@ -24,21 +24,16 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 ---
 
 ## 📱 UI Screens
+## 📱 App Screens (Horizontal Showcase)
 
-### Dashboard Overview  
-<img src="iPhone 16 Pro Max - 1.png" width="350"/>
+<div align="center">
+  <img src="iPhone 16 Pro Max - 1.png" width="200" style="margin-right:10px;"/>
+  <img src="iPhone 16 Pro Max - 2.png" width="200" style="margin-right:10px;"/>
+  <img src="iPhone 16 Pro Max - 3.png" width="200" style="margin-right:10px;"/>
+  <img src="iPhone 16 Pro Max - 4.png" width="200" style="margin-right:10px;"/>
+  <img src="iPhone 16 Pro Max - 5.png" width="200"/>
+</div>
 
-### Wallet & Transactions  
-<img src="iPhone 16 Pro Max - 2.png" width="350"/>
-
-### Balance Summary & Reports  
-<img src="iPhone 16 Pro Max - 3.png" width="350"/>
-
-### Expense Management & Goals  
-<img src="iPhone 16 Pro Max - 4.png" width="350"/>
-
-### Insights & Analytics  
-<img src="iPhone 16 Pro Max - 5.png" width="350"/>
 
 ---
 
