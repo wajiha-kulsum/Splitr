@@ -1,23 +1,36 @@
-# 💸 Smart Expense Splitter - UI/UX Design
-A smart and intuitive interface to manage and split shared expenses among groups seamlessly.
+# 💸 Smart Expense Splitter – UI/UX Design
 
-## 🖌️ Overview
-This design focuses on making expense tracking simple, fair, and collaborative through clean UI and minimal interactions.
+A clean, dark-themed financial management interface that helps users track, save, and split expenses seamlessly.
 
-## 🎨 Tools Used
-- Figma
-- FigJam (for wireframes & flow)
-- Google Fonts
-- Material Design Components
+---
 
-## 🧩 Key Screens
-- Login & Signup
-- Dashboard Overview
-- Add Expense
-- Split & Settle Up
-- User Profile
+## 📱 UI Screens
+
+### Dashboard Overview
+<img src="assets/iPhone 16 Pro Max - 1.png" width="350"/>
+
+### Wallet & Card Details
+<img src="assets/iPhone 16 Pro Max - 2.png" width="350"/>
+
+### Balance Summary & Insights
+<img src="assets/iPhone 16 Pro Max - 3.png" width="350"/>
+
+---
+
+## 🧩 Tools Used
+- **Figma** for design & prototyping  
+- **FigJam** for wireframes  
+- **Google Fonts**  
+- **Material Design System**
+
+---
 
 ## 🌐 Prototype
-[Figma Prototype Link](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Untitled?node-id=0-1&p=f&t=ydXqSB3kvIcC92Tw-0)
+[View Figma Prototype](https://www.figma.com/file/your-link-here)
 
-## 📂 File Structure
+---
+
+## 👩‍🎨 Designer
+**Wajiha Kulsum**  
+B.Tech Software Engineering | UI/UX Designer  
+📧 your.email@example.com | [LinkedIn](#)
