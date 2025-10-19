@@ -6,9 +6,10 @@ The design emphasizes a clean dark-mode aesthetic, minimal clutter, and smooth d
 
 ##  Prototype Link
 [Figma Prototype](https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Splitr?t=qwcfbNWEj4aZWMBx-0)
+https://www.figma.com/design/q44uJeLrpskqptwVY5vbWa/Splitr?t=qwcfbNWEj4aZWMBx-0
 ---
 [YouTube](https://youtu.be/Bpi4tb9rFjI)
-(https://youtu.be/Bpi4tb9rFjI)
+https://youtu.be/Bpi4tb9rFjI
 ---
 
 
